@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAEA,SACE,YAAa,CACb,aAAS,CAAT,QACF,CAEA,YACE,gBACF","file":"main.b78cdfc5.chunk.css","sourcesContent":["html {\n  padding: 20px;\n}\n\n.buttons {\n  display: flex;\n  gap: 10px;\n}\n\n.list-group {\n  padding-top: 50px;\n}\n"]}
